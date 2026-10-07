@@ -1,0 +1,3 @@
+Communicate which folder you are working on and want to push to make sure we don't have any Git issues.
+
+The project is divided nicely so you should only need to work on one folder at a time. 
